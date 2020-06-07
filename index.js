@@ -46,7 +46,10 @@ console.log(getBatter());// or getName()
 
 
 
-// [true, false, true]
+// [true, false, true]//
+
+
+//true false// true false//
 
 
 
